@@ -29,3 +29,5 @@ realme.show_model(25000)
 
 redmi = Mobile("Redmi XL")
 redmi.show_model(25000)
+
+print("testing")
